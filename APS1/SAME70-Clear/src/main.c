@@ -214,6 +214,7 @@ int notesPirates[] = {       //Note of the song, 0 is a rest/pulse
    NOTE_B4, NOTE_C5, 0, NOTE_B4, 0, NOTE_A4
 };
 //*****************************************
+//Musica retirada de https://github.com/xitangg/-Pirates-of-the-Caribbean-Theme-Song/blob/master/Pirates_of_the_Caribbean_-_Theme_Song.ino?fbclid=IwAR21TPRil8-WPYgGn-4uas_ebpT5CKikvGuOqwhypA-6hPFOBca3Bft2s8U
 int durationPirates[] = {         //duration of each note (in ms) Quarter Note is set to 250 ms
   125, 125, 250, 125, 125, 
   125, 125, 250, 125, 125,
@@ -267,7 +268,7 @@ int durationPirates[] = {         //duration of each note (in ms) Quarter Note i
   250, 125, 375, 250, 125, 375,
   125, 125, 125, 125, 125, 500
 };
-
+// Musica retirada de :https://www.princetronics.com/supermariothemesong/?fbclid=IwAR0Y54p6Js32hylqbnZT90jZmeN5VhtLJ0qh6YcuWmYuMssQUXm0xJRh8X0
 int melodyMario[] = {
 	NOTE_E7, NOTE_E7, 0, NOTE_E7,
 	0, NOTE_C7, NOTE_E7, 0,
